@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrecoJustoBO</string>
+    <string name="erro_nome">Nome inválido</string>
+    <string name="erro_valor">Valor inválido</string>
+    <string name="erro_parcela">Parcela inválida</string>
+    <string name="erro_juros">Juros inválido</string>
+</resources>
